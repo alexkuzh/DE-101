@@ -23,3 +23,4 @@
 В основном репозитории курса ошибочное создание этой таблицы (наимернования полей и ключи)
 правильное создание [скрипт](https://github.com/alexkuzh/DE-101/blob/main/Module2/return_create.sql)
 и если через импорт, как с таблицей orders, то вот [файл csv](https://github.com/alexkuzh/DE-101/blob/main/Module2/import_returns.csv), он уже без дубликатов.
+Традиционный скрипт создания таблицы и заполние данными через insert [create_returns_inserts.sql](https://github.com/alexkuzh/DE-101/blob/main/Module2/create_returns_inserts.sql)
