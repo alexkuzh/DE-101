@@ -8,11 +8,11 @@
 Далее только для таблицы orders, остальные таблицы маленькие и можно воспользоваться теми скриптами с insert что выложили на курсе.
 
 Качаем предварительно подготовленный файл [import_orders.csv](https://github.com/alexkuzh/DE-101/blob/main/Module2/import_orders.csv) 
-* 1. Создаем таблицу order штатным скриптом (drop, create и т.д.)
-* 2. Тыкаем на таблицу orders прав.кнопкой вызываем контекстное меню и выбираем Import Data
-* 3. Выбираем источник данных наш файл csv
-* 4. Устанавливаем (ВАЖНО) column delimiter \t (колонки в файле разделены табуляцией) , NULL, Date format, см. [screenshot](https://github.com/alexkuzh/DE-101/blob/main/Module2/import_orders_cr.png)
-* 5. ну и там дальше next...proceed
+* Создаем таблицу order штатным скриптом (drop, create и т.д.)
+* Тыкаем на таблицу orders прав.кнопкой вызываем контекстное меню и выбираем Import Data
+* Выбираем источник данных наш файл csv
+* Устанавливаем (ВАЖНО) column delimiter \t (колонки в файле разделены табуляцией) , NULL, Date format, см. [screenshot](https://github.com/alexkuzh/DE-101/blob/main/Module2/import_orders_cr.png)
+* Ну и там дальше next...proceed
 
 Весь импорт займет 3 секунды! Есть разница между insert? :) Способ работает для Postgres и MySQL.
 Если будет полезно, то этот способ можно прикрутить к официальному курсу. Буду рад, если кому-то пригодится.
