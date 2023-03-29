@@ -32,3 +32,21 @@
 
 ## Основные метрики
 [Основные метрики](https://github.com/alexkuzh/DE-101/tree/main/Module2/Metrics_sql)
+
+## Модель базы. Нормализация.
+
+### Концептуальная модель
+
+![concept](https://github.com/alexkuzh/DE-101/blob/main/Module2/ConceptModel.png)
+
+### Физическая модель
+
+![dll model](https://github.com/alexkuzh/DE-101/blob/main/Module2/DLL_model.png)
+
+* Создание таблиц [DLL.sql](https://github.com/alexkuzh/DE-101/blob/main/Module2/DLL.sql)
+
+* Заполнение таблиц из предыдущей таблицы Orders [insert_references.sql](https://github.com/alexkuzh/DE-101/blob/main/Module2/inserts_references.sql)
+
+
+
+
