@@ -1,4 +1,6 @@
-## Module 2
+# Module 2
+
+## Создание таблиц и заполнение данными
 
 ### Таблица Orders
 
@@ -27,3 +29,6 @@
 
 ### Таблица People
 Тут все просто [create_people_inserts.sql](https://github.com/alexkuzh/DE-101/blob/main/Module2/create_people_inserts.sql)
+
+## Основные метрики
+[Основные метрики](https://github.com/alexkuzh/DE-101/tree/main/Module2/Metrics_sql)
