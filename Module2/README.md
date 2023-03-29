@@ -26,4 +26,4 @@
 Традиционный скрипт создания таблицы и заполнение данными через insert [create_returns_inserts.sql](https://github.com/alexkuzh/DE-101/blob/main/Module2/create_returns_inserts.sql)
 
 ### Таблица People
-Тут все просто [скрипт](https://github.com/alexkuzh/DE-101/blob/main/Module2/create_people_inserts.sql)
+Тут все просто [create_people_inserts.sql](https://github.com/alexkuzh/DE-101/blob/main/Module2/create_people_inserts.sql)
